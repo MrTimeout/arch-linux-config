@@ -1,0 +1,4 @@
+window:
+  opacity: 0.60
+import:
+  - ~/.config/alacritty/dracula.yml # This path must be absolute or relative to the home directory
