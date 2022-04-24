@@ -1,0 +1,17 @@
+icons:
+  - key: powerline
+    value: " "
+  - key: network_running
+    value: " "
+  - key: network_not_running
+    value: " "
+  - key: calendar
+    value: " "
+  - key: linux
+    value: " "
+  - key: firefox
+    value: " "
+  - key: codecamp
+    value: " "
+  - key: git_folder
+    value: " "
